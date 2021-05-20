@@ -14,4 +14,6 @@
 
 #16/05/21 Done sample example on the databinding of property, attribute and event and done sample example on the Directives of attribute , structural and custom.
 
+#17/05/21 Done an example on angular and reactive forms and done an example on the service in Angular.
+
 
