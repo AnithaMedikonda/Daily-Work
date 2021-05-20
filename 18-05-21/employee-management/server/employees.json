@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 908167,
+      "password": "Anitha",
+      "name": "Anitha",
+      "age": 22,
+      "address": "ongole",
+      "company": "CTS"
+    },
+    {
+      "id": 908168,
+      "password": "navya",
+      "name": "navya",
+      "age": 21,
+      "address": "guntur",
+      "company": "CTS"
+    },
+    {
+      "id": 908169,
+      "password": "sri",
+      "name": "Sri",
+      "age": 22,
+      "address": "MTM",
+      "company": "CTS"
+    },
+    {
+      "id": 908119,
+      "password": "vani",
+      "name": "vani",
+      "age": 22,
+      "address": "manipal",
+      "company": "HCL"
+    },
+    {
+      "id": "908120",
+      "password": "dbns",
+      "name": "manasa",
+      "address": "kadapa",
+      "age": "22",
+      "company": "CTS"
+    },
+    {
+      "id": "908160",
+      "password": "abc",
+      "name": "abc34",
+      "address": "addanki",
+      "age": "22",
+      "company": "CTS"
+    },
+    {
+      "id": "123",
+      "password": "820",
+      "name": "ghshdj",
+      "address": "huomn",
+      "age": "99",
+      "company": "vhj"
+    }
+  ]
+}
