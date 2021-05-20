@@ -11,3 +11,7 @@
 #12/05/21 chapter4 &chapter5 tasks completed regarding bootstrap( completed grid_system, grid_alignment, flexbox,auto_margins_wrapping_orde carousel,collapse,tooltips,popovers,modals,scrollspy)
 
 #14/05/21 done small example regarding angular.And learned what is type script .
+
+#16/05/21 Done sample example on the databinding of property, attribute and event and done sample example on the Directives of attribute , structural and custom.
+
+
