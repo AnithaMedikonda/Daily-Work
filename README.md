@@ -17,3 +17,5 @@
 #17/05/21 Done an example on angular and reactive forms and done an example on the service in Angular.
 
 #18/05/21 done CRUD operations using employees.json at server 3000 and  CRUD operations using spring boot(userservice) as back end and linked to angular through cross origin on the method and performed CRUD.
+
+#21/05/21  Angular Handson Creating Game Component using setInterval,clearInterval with EventEmitter component binding - parent and child component communication
