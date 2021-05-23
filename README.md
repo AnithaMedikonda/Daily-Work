@@ -16,4 +16,8 @@
 
 #17/05/21 Done an example on angular and reactive forms and done an example on the service in Angular.
 
-#18/05/21 done CRUD operations using employees.json at server 3000 and  CRUD operations using spring boot(userservice) as back end and linked to angular through cross origin on the method and performed CRUD.
+#18/05/21  HttpClient Module creating the romote api server using json(acts as database) allows for http requests and make API calss to remote servers to access data .Routing and Navigation Gives information about whuch component maps to a specific path 2.to navigate from one page to another using route
+
+#19/05/21 done CRUD operations using employees.json at server 3000 and  CRUD operations using spring boot(userservice) as back end and linked to angular through cross origin on the method and performed CRUD.
+
+#21/05/21  Angular Handson Creating Game Component using setInterval,clearInterval with EventEmitter component binding - parent and child component communication
