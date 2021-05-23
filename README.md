@@ -21,3 +21,5 @@
 #19/05/21 done CRUD operations using employees.json at server 3000 and  CRUD operations using spring boot(userservice) as back end and linked to angular through cross origin on the method and performed CRUD.
 
 #21/05/21  Angular Handson Creating Game Component using setInterval,clearInterval with EventEmitter component binding - parent and child component communication
+
+#22/05/21 Done upto step-20 in udemy regarding microservices
